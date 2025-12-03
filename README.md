@@ -1,5 +1,3 @@
-# aws-ec2-hostname-management
-Tutorial showing how to change the hostname of an EC2 Linux machine permanently using hostnamectl and configuration files.
 # 🔧 AWS EC2 Hostname Management
 
 This repository provides a high-level overview of how hostname management works on AWS EC2 Linux instances.
